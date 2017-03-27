@@ -1,2 +1,1 @@
-# python
-hello world
+pirnt "hello world"
